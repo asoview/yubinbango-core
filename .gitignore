@@ -2,3 +2,6 @@
 node_modules
 npm-debug.log
 yubinbango-core-src.*
+
+# Claude Code: per-user permission approvals. Never commit (may contain inline credentials).
+**/.claude/settings.local.json
